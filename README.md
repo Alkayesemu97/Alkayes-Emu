@@ -38,7 +38,6 @@
 <a href="https://www.behance.net/alkayes_emu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alkayes_emu" height="20" width="20" /></a>
 </p>
 
-<br><br> <!-- Added spacing between sections -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
